@@ -30,9 +30,3 @@ A collection of MySQL assignment solutions and practice problems covering topics
 - Normal forms (1NF, 2NF, 3NF)
 
 ---
-
-## 🛠️ How to Use
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
