@@ -24,5 +24,5 @@ A collection of MySQL assignment solutions and practice problems covering topics
 - Subqueries and nested SELECT
 - Use of aliases and logical operators
 - Normal forms (1NF, 2NF, 3NF)
-
+- Projects
 ---
